@@ -17,3 +17,19 @@ eslint
 yarn add eslint -D
 yarn eslint --init
 yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
+
+tratar das rotas do front
+yarn add react-router-dom
+
+styled components
+yarn add styled-components
+
+react icons
+yarn add react-icons
+
+axios para requisições api
+yarn add axios
+
+yarn add prop-types
+
+parei na 12
